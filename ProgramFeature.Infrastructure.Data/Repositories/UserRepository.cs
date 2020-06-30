@@ -30,6 +30,7 @@ namespace ProgramFeature.Infrastructure.Data.Repositories
         public async Task<UserInfoModel> AuthenticateAsync(string username, string password)
         {
 
+
             var user = await GetUser(username, password);
             // return null if user not found
             if (user == null)
