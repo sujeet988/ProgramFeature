@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgramFeature.UI", "ProgramFeature.UI", "{7988CB2E-7F2E-4779-B3A2-4AAD393E620B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProgramFeature.Web", "ProgramFeature.Web", "{7988CB2E-7F2E-4779-B3A2-4AAD393E620B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramFeature.AspnetCoreDemo", "ProgramFeature.AspnetCoreDemo\ProgramFeature.AspnetCoreDemo.csproj", "{49D8434B-0A19-446A-88E7-60AE1CE2AA9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramFeature.Api", "ProgramFeature.AspnetCoreDemo\ProgramFeature.Api.csproj", "{49D8434B-0A19-446A-88E7-60AE1CE2AA9B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRC", "SRC", "{3615C949-94E3-4A24-B35D-637800978152}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramFeature.Application", "ProgramFeature.Application\ProgramFeature.Application.csproj", "{916DD707-ACE1-4353-A124-8F04F436ADDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramFeature.Service", "ProgramFeature.Application\ProgramFeature.Service.csproj", "{916DD707-ACE1-4353-A124-8F04F436ADDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramFeature.Domain", "ProgramFeature.Domain\ProgramFeature.Domain.csproj", "{9647EFBE-0C19-43B3-A610-84B6A95798A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramFeature.Domain", "ProgramFeature.Domain\ProgramFeature.Domain.csproj", "{9647EFBE-0C19-43B3-A610-84B6A95798A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramFeature.Infrastructure.Data", "ProgramFeature.Infrastructure.Data\ProgramFeature.Infrastructure.Data.csproj", "{7B6034CD-B00A-48D6-89E8-0DF24C525F83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramFeature.Infrastructure.Data", "ProgramFeature.Infrastructure.Data\ProgramFeature.Infrastructure.Data.csproj", "{7B6034CD-B00A-48D6-89E8-0DF24C525F83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramFeature.Infrastructure.IoC", "ProgramFeature.Infrastructure.IoC\ProgramFeature.Infrastructure.IoC.csproj", "{280B4227-F73C-4F4B-B524-FD7D4D64F394}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramFeature.Infrastructure.IoC", "ProgramFeature.Infrastructure.IoC\ProgramFeature.Infrastructure.IoC.csproj", "{280B4227-F73C-4F4B-B524-FD7D4D64F394}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

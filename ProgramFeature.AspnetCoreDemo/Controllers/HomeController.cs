@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using ProgramFeature.AspnetCoreDemo.Models;
+using ProgramFeature.Api.Models;
 
-namespace ProgramFeature.AspnetCoreDemo.Controllers
+namespace ProgramFeature.Api.Controllers
 {
     public class HomeController : Controller
     {

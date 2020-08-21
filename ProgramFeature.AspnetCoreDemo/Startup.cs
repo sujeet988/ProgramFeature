@@ -13,7 +13,7 @@ using ProgramFeature.Infrastructure.Data.DbModels;
 using ProgramFeature.Infrastructure.IoC;
 
 
-namespace ProgramFeature.AspnetCoreDemo
+namespace ProgramFeature.Api
 {
     public class Startup
     {

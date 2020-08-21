@@ -4,10 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using ProgramFeature.Application.Interfaces;
-using ProgramFeature.Application.ViewModels;
+using ProgramFeature.Service.Interfaces;
+using ProgramFeature.Service.ViewModels;
 
-namespace ProgramFeature.AspnetCoreDemo.Controllers
+namespace ProgramFeature.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

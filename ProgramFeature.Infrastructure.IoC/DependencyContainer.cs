@@ -5,7 +5,7 @@ using System.Text;
 
 using ProgramFeature.Domain.Interfaces;
 using ProgramFeature.Infrastructure.Data.Repositories;
-using ProgramFeature.Application.Interfaces;
+using ProgramFeature.Service.Interfaces;
 using ProgramFeature.Application.Services;
 
 namespace ProgramFeature.Infrastructure.IoC
@@ -21,6 +21,7 @@ namespace ProgramFeature.Infrastructure.IoC
             //CleanArchitecture.Domain.Interfaces | CleanArchitecture.Infra.Data.Repositories
             services.AddScoped<IProgramPortfolioRepository, ProgramPortfolioRepository>();
             services.AddScoped<IUserRepository, UserRepository>();
+
         }
     }
 }

@@ -1,6 +1,6 @@
 using System;
 
-namespace ProgramFeature.AspnetCoreDemo.Models
+namespace ProgramFeature.Api.Models
 {
     public class ErrorViewModel
     {

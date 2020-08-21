@@ -1,9 +1,9 @@
-﻿using ProgramFeature.Application.ViewModels;
+﻿using ProgramFeature.Service.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProgramFeature.Application.Interfaces
+namespace ProgramFeature.Service.Interfaces
 {
     public interface IProgramPortfolioService
     {

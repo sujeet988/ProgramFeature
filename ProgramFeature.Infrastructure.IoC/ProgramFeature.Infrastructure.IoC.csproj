@@ -9,7 +9,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProgramFeature.Application\ProgramFeature.Application.csproj" />
+    <ProjectReference Include="..\ProgramFeature.Application\ProgramFeature.Service.csproj" />
     <ProjectReference Include="..\ProgramFeature.Infrastructure.Data\ProgramFeature.Infrastructure.Data.csproj" />
   </ItemGroup>
 

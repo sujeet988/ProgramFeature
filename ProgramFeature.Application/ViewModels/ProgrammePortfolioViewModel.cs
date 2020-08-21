@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ProgramFeature.Application.ViewModels
+namespace ProgramFeature.Service.ViewModels
 {
  public   class ProgrammePortfolioViewModel
     {

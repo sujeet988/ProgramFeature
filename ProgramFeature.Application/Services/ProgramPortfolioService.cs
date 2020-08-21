@@ -1,5 +1,5 @@
-﻿using ProgramFeature.Application.Interfaces;
-using ProgramFeature.Application.ViewModels;
+﻿using ProgramFeature.Service.Interfaces;
+using ProgramFeature.Service.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Text;
