@@ -6,7 +6,8 @@ using System.Text;
 using ProgramFeature.Domain.Interfaces;
 using ProgramFeature.Infrastructure.Data.Repositories;
 using ProgramFeature.Service.Interfaces;
-using ProgramFeature.Application.Services;
+using ProgramFeature.Service.ViewModels;
+using ProgramFeature.Service.Services;
 
 namespace ProgramFeature.Infrastructure.IoC
 {

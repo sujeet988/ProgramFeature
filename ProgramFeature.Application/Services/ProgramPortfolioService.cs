@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Text;
 using ProgramFeature.Domain.Interfaces;
 
-namespace ProgramFeature.Application.Services
+namespace ProgramFeature.Service.Services
 {
  public   class ProgramPortfolioService : IProgramPortfolioService
     {
